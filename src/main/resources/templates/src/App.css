@@ -1,0 +1,47 @@
+body {
+  background-color: #F4F0F7;
+}
+
+.App {
+  text-align: center;
+  background-color: #F4F0F7;
+}
+
+header.App-header {
+
+  background-color: #936EB5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  height: 86px;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h2.top-section {
+  background-color: #936EB5;
+  display: flex-inline;
+  font-size:60px;
+  color: #FFFFFF;
+}
+
+.top-section:hover{
+}
+
+main.main-section {
+  position:absolute;
+  top: 100px;
+  left:0px;
+  right:0px;
+  bottom:0px;
+  overflow-y:scroll;
+}
+
+h2 {
+  font: 30px;
+}
